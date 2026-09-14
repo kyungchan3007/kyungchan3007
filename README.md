@@ -46,7 +46,7 @@
 
 **🧭 프로젝트 바로가기**
 
-[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
+[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
 
 </div>
 
@@ -113,6 +113,25 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 ---
 
 ### 🚀 Side Projects
+
+<a id="clauselens"></a>
+### 🔍 ClauseLens · 계약서 조항 분석 모바일 앱
+> 2026.09 ~ 진행 중 · Frontend + Backend · Claude · Codex AI 협업
+
+계약서·약관을 촬영하면 OCR로 텍스트·좌표를 추출하고, 사용자에게 불리할 수 있는 조항을 **원본 이미지 위에 하이라이트**하는 모바일 앱입니다.
+
+- 🤖 두 AI(**Claude · Codex**)가 동일한 규칙·단일 진실 소스로 협업하는 **에이전틱 엔지니어링 체계** 설계 (Intent · Context · Harness · Orchestration)
+- 🧱 Expo(RN) + NestJS **모노레포**(Turborepo) — 프론트 **FSD** · 백엔드 **모듈러 모놀리스** · `zod` 계약 공유
+- 🚏 인프라를 **Railway 단일 벤더**로 통합(Redis + BullMQ · Storage Bucket), 결정마다 **ADR · SDD/PRD**로 근거 기록
+- 🎨 React Native **Skia**로 원본 이미지 위 좌표 하이라이트 렌더링
+
+`Expo` `React Native` `TypeScript` `NestJS` `Prisma` `Skia` `Zod` `Turborepo` `AI Harness`
+
+[🔗 Repository](https://github.com/kyungchan3007/clause-lens)
+
+<sub>[⬆ 목록으로](#portfolio-top)</sub>
+
+---
 
 <a id="dayro"></a>
 ### 💘 Dayro · AI 데이트 코스 추천 서비스
