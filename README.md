@@ -82,7 +82,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 - 🛡️ `commandId` 기준 서버 멱등 처리(Lambda · DynamoDB)로 **중복 제어 방지**
 - 🔌 컴포넌트마다 AWS IoT를 직접 구독하던 구조를 **Node.js WebSocket 게이트웨이** 하나로 통합
 - 🚨 S3 · Athena · CloudWatch 로그 분석 + Slack 알림으로 장애 대응 **3일 → 1일 이내**
-- 🚀 PM2 무중단 워커 교체와 제어 복구를 넣은 CI/CD 자동 배포
+- 🚀 CI/CD 자동 배포 · PM2로 신규 워커 구독 완료 후 기존 워커를 종료하고, 재접속 시 진행 중인 제어 결과를 복구해 **배포 중 제어 유실 방지**
 
 `MQTT` `AWS IoT` `Lambda` `DynamoDB` `Node.js` `WebSocket` `CloudWatch`
 
