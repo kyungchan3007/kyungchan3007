@@ -137,7 +137,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Expo` `React Native` `TypeScript` `NestJS` `Prisma` `Skia` `Zod` `Turborepo` `AI Harness`
 
-[🔗 Repository](https://github.com/kyungchan3007/clause-lens)
+[🔗 Repository](https://github.com/kyungchan3007/clause-lens) · [📘 상세 회고](https://shaded-badger-c05.notion.site/OCR-3d1deddc12a780f0bb7fc1f8403287a5)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
