@@ -174,7 +174,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Next.js` `TypeScript` `Cloudflare Workers` `AI Harness` `SEO`
 
-[🔗 Repository](https://github.com/kyungchan3007/SAJU) · [📘 상세 회고](https://shaded-badger-c05.notion.site/353deddc12a7815ba3dfe58bbc0807cc)
+[🔗 Repository](https://github.com/kyungchan3007/SAJU) · [📘 프로젝트 기록](https://shaded-badger-c05.notion.site/353deddc12a7815ba3dfe58bbc0807cc)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
