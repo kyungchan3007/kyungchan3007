@@ -15,10 +15,10 @@
 ### 요즘 빠져 있는 것
 - **AI와 함께 일하는 방법**
   AI를 단순히 코드 짜는 도구가 아니라 팀원처럼 쓰려면 어떻게 해야 할지 고민합니다.
-  개발 속도는 높이면서 서비스 품질은 떨어지지 않게 하는 방법을 매일 실험하고 있어요.
-  현업과 사이드 프로젝트에서 직접 만들고 운영해 온 AI 협업 체계를 따로 떼어 낸 실험실에서 개선하고,
-  "좋아진 것 같다"가 아니라 측정으로 확인한 것만 다시 실무에 적용합니다.  
-  → 📘 [공부 기록 · AI Harness](https://shaded-badger-c05.notion.site/AI-Harness-3d8deddc12a78072aecad454dbd0eef5) · 🧪 [실험 저장소 · harness-lab](https://github.com/kyungchan3007/Harness)
+  개발 속도는 높이면서 서비스 품질은 떨어지지 않게 하는 방법을 매일 공부하고 있어요.
+  현업과 사이드 프로젝트에서 직접 만들고 운영해 온 AI 협업 방식의 부족한 점을 찾아 보완하고,
+  "좋아진 것 같다"가 아니라 수치로 확인한 것만 다시 실무에 적용합니다.  
+  → 📘 [공부 기록 · AI Harness](https://shaded-badger-c05.notion.site/AI-Harness-3d8deddc12a78072aecad454dbd0eef5) · 📦 [저장소 · harness-lab](https://github.com/kyungchan3007/Harness)
 
 - **"느낌"이 아니라 "근거"로 판단하기**
   빨라진 것 같다, 좋아진 것 같다에서 멈추지 않고 직접 재보고 비교해서 결정하는 습관을 만들고 있어요.
