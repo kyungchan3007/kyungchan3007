@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/📘_Portfolio-자세히_보기-000000?style=for-the-badge)](https://kyungchan3007.github.io/-portfolio/)
+[![Portfolio](https://img.shields.io/badge/📘_Portfolio-자세히_보기-000000?style=for-the-badge)](https://shaded-badger-c05.notion.site/3eddeddc12a780dbb9c0f01397268ec7)
 
 <br/>
 
@@ -79,7 +79,7 @@
 
 `Next.js` `TypeScript` `AI Harness` `OpenAPI` `Zod` `pnpm`
 
-[📘 포트폴리오에서 보기](https://kyungchan3007.github.io/-portfolio/#fms)
+[📘 포트폴리오에서 보기](https://shaded-badger-c05.notion.site/3f1deddc12a780f0b723fa6e8828f890)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
@@ -99,7 +99,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `MQTT` `AWS IoT` `Lambda` `DynamoDB` `Node.js` `WebSocket` `CloudWatch`
 
-[📘 포트폴리오에서 보기](https://kyungchan3007.github.io/-portfolio/#remote)
+[📘 포트폴리오에서 보기](https://shaded-badger-c05.notion.site/3f1deddc12a78001a390c0134a350e5b)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
@@ -119,7 +119,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Next.js` `SSR` `SSE` `Web Worker` `BFF Cache` `SonarQube` `Playwright`
 
-[📘 포트폴리오에서 보기](https://kyungchan3007.github.io/-portfolio/#bems)
+[📘 포트폴리오에서 보기](https://shaded-badger-c05.notion.site/3f0deddc12a780fdb08eef9a43b86d51)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
@@ -214,7 +214,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 <p>
   <a href="mailto:developfff@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://kyungchan3007.github.io/-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://shaded-badger-c05.notion.site/3eddeddc12a780dbb9c0f01397268ec7"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
