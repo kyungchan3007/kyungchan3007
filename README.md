@@ -39,8 +39,8 @@
 
 | 분류 | 기술 |
 |---|---|
-| **Frontend** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/> |
-| **API · Realtime** | <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/SSE-555555?style=flat-square"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> |
+| **API · Realtime** | <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/SSE-555555?style=flat-square"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white"/> |
 | **Cloud** | <img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white"/> |
 | **Test · Quality** | <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/> |
 | **Performance** | <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Vitals-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Worker-555555?style=flat-square"/> |
@@ -59,7 +59,7 @@
 
 **🧭 프로젝트 바로가기**
 
-[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [📚 StudyRoom](#studyroom) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
+[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [💱 Tripfx](#tripfx) · [📚 StudyRoom](#studyroom) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
 
 </div>
 
@@ -126,6 +126,26 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 ---
 
 ### 🚀 Side Projects
+
+<a id="tripfx"></a>
+### 💱 Tripfx · 여행 · 직구 타이밍 환율 대시보드
+> 2026.10 ~ 운영 중 · Frontend + Backend · AI 코딩 에이전트(Claude Code)가 이슈부터 배포까지 만들고, 그 과정을 사이트에 실시간 공개
+
+한국수출입은행 환율 · 물가 오픈 API를 하루 한 번 받아, **"지금 달러가 싼 편인지"**를 과거 90일 중 위치로 보여 주는 대시보드입니다 (예측이 아니라 실측 위치만).
+
+- 🤖 **하네스로 일하는 AI 에이전트** — 요청 원문 고정 · 계획한 파일만 수정 · 보호 파일 · 게이트(`checks.sh`) 통과해야 "완료" · 작업마다 허점 기록
+- 🛰️ **"만드는 중" 페이지** — 에이전트의 도구 사용 훅 → Workers API(D1) → 실시간 기록 패널 · 3D 고양이가 이슈 → 작업 → 테스트 → 배포 책상을 옮겨 다님
+- 🧱 Turborepo 모노레포 — Next.js 16 정적 사이트(Cloudflare Pages · BFF) + Hono Worker API(D1 · Drizzle) · `zod` 계약 공유 · VSA · three.js 3D까지 디자인 시스템 패키지로
+- 💸 통화 22개 둘러보기(1년 흐름) · 관세청 기준 **직구 면세 한도 · 관부가세 계산기** (입력값은 브라우저 밖으로 보내지 않음)
+- ⚡ Lighthouse 모바일 3회 중앙값으로 측정 → 첫 글자를 숨기던 애니메이션 제거 · 3D 지연 로드 + 자리 확보로 **만드는 중 72 → 94점 · 홈 CLS 0.155 → 0.008**
+
+`Next.js 16` `TypeScript` `Hono` `Cloudflare Workers · D1` `Drizzle` `Zod` `three.js` `Turborepo` `AI Harness`
+
+[🌐 사이트](https://tripfx.pages.dev) · [🛰️ 만드는 중](https://tripfx.pages.dev/log) · [🔗 Repository](https://github.com/kyungchan3007/harness-auto-web)
+
+<sub>[⬆ 목록으로](#portfolio-top)</sub>
+
+---
 
 <a id="studyroom"></a>
 ### 📚 StudyRoom · 그룹 공부 시간 측정 앱
