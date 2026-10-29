@@ -166,7 +166,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `기획` `UX/UI` `Figma` `Notion` `AI 협업`
 
-[📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4)
+[📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4) · [🎨 Figma 화면 시안](https://www.figma.com/design/8fxWrnqqGZYG9KSIsqa6RI/StudyRoom-%ED%99%94%EB%A9%B4-%EC%8B%9C%EC%95%88?node-id=0-1&p=f)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
