@@ -12,13 +12,18 @@
 
 안녕하세요, 프론트엔드 개발자 **박경찬**입니다.
 
-### 요즘 빠져 있는 것
-- **AI와 함께 일하는 방법**
-  AI를 단순히 코드 짜는 도구가 아니라 팀원처럼 쓰려면 어떻게 해야 할지 고민합니다.
-  개발 속도는 높이면서 서비스 품질은 떨어지지 않게 하는 방법을 매일 공부하고 있어요.
-  현업과 사이드 프로젝트에서 직접 만들고 운영해 온 AI 협업 방식의 부족한 점을 찾아 보완하고,
-  "좋아진 것 같다"가 아니라 수치로 확인한 것만 다시 실무에 적용합니다.  
-  → 📘 [공부 기록 · AI Harness](https://shaded-badger-c05.notion.site/AI-Harness-3d8deddc12a78072aecad454dbd0eef5) · 📦 [저장소 · harness-lab](https://github.com/kyungchan3007/Harness)
+### 요즘 실험하고 있는 것
+- **AI를 팀원처럼 쓰는 개발 체계 (하네스)**
+  AI가 빠르게 만들어도 품질이 떨어지지 않도록 규칙 · 검사 · 기록을 묶은 작업 체계를 만들고 있어요.
+  "좋아진 것 같다"가 아니라 직접 실험해서 수치로 확인한 것만 남깁니다.
+
+  | 단계 | 저장소 | 하는 일 |
+  |---|---|---|
+  | 🔬 공부 | [harness-lab](https://github.com/kyungchan3007/Harness) | 원문 vs 요약, 문서 vs 자동 검사, 모델 조합 등을 실험하고 비용 · 정확도를 측정 |
+  | 🧰 정리 | [harness-template](https://github.com/kyungchan3007/harness-template) | 실험으로 효과가 확인된 것만 모아 누구나 쓸 수 있는 공개 템플릿으로 정리 |
+  | 🤖 실전 | [harness-auto-web](https://github.com/kyungchan3007/harness-auto-web) | 템플릿으로 AI 코딩 에이전트가 이슈부터 배포까지 직접 만드는 사이트([Tripfx](https://tripfx.pages.dev)) 운영 |
+
+  → 📘 [공부 기록 · AI Harness](https://shaded-badger-c05.notion.site/AI-Harness-3d8deddc12a78072aecad454dbd0eef5)
 
 - **"느낌"이 아니라 "근거"로 판단하기**
   빨라진 것 같다, 좋아진 것 같다에서 멈추지 않고 직접 재보고 비교해서 결정하는 습관을 만들고 있어요.
