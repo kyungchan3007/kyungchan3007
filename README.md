@@ -40,6 +40,19 @@
 
 <br/>
 
+## 🚧 지금 진행 중인 프로젝트
+
+### 📚 StudyRoom · 그룹 공부 시간 측정 앱
+공부의 **총량이 아니라 흐름**까지 기록하는 앱을 **기획부터 출시까지** 직접 만들어 가고 있어요.
+
+| 💡 아이디어 | 📝 기획 | 🎨 UX/UI 설계 | 🛠️ 개발 | 🧪 테스트 | 🚀 출시 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ✅ 완료 | 🟡 진행 중 | 🟡 진행 중 | ⬜ 예정 | ⬜ 예정 | ⬜ 예정 |
+
+[📘 기획안](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4) · [🎨 Figma 화면 시안](https://www.figma.com/design/8fxWrnqqGZYG9KSIsqa6RI/StudyRoom-%ED%99%94%EB%A9%B4-%EC%8B%9C%EC%95%88?node-id=0-1&p=f) · [자세히 보기 ↓](#studyroom)
+
+<br/>
+
 ## 🛠 Tech Stack
 
 | 분류 | 기술 |
