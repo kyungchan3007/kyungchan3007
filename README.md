@@ -20,6 +20,7 @@
   | 단계 | 저장소 | 하는 일 |
   |---|---|---|
   | 🔬 공부 | [harness-lab](https://github.com/kyungchan3007/Harness) | 원문 vs 요약, 문서 vs 자동 검사, 모델 조합 등을 실험하고 비용 · 정확도를 측정 |
+  | 🔬 공부 | [ontology-coding-bench](https://github.com/kyungchan3007/ontology-coding-bench) | 온톨로지 vs PRD·SDD, 무엇을 줘야 코딩 AI가 정확하고 싸게 짜는지 숨은 테스트로 측정 |
   | 🧰 정리 | [harness-template](https://github.com/kyungchan3007/harness-template) | 실험으로 효과가 확인된 것만 모아 누구나 쓸 수 있는 공개 템플릿으로 정리 |
   | 🤖 실전 | [harness-auto-web](https://github.com/kyungchan3007/harness-auto-web) | 템플릿으로 AI 코딩 에이전트가 이슈부터 배포까지 직접 만드는 사이트([Tripfx](https://tripfx.pages.dev)) 운영 |
 
