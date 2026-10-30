@@ -41,12 +41,12 @@
 
 ## 🚧 지금 진행 중인 프로젝트
 
-### 📚 StudyRoom · 그룹 공부 시간 측정 앱
+### 📚 공부반장 · 그룹 공부 시간 측정 앱
 공부의 **총량이 아니라 흐름**까지 기록하는 앱을 **기획부터 출시까지** 직접 만들어 가고 있어요.
 
 | 💡 아이디어 | 📝 기획 | 🎨 UX/UI 설계 | 🛠️ 개발 | 🧪 테스트 | 🚀 출시 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ✅ 완료 | 🟡 진행 중 | 🟡 진행 중 | ⬜ 예정 | ⬜ 예정 | ⬜ 예정 |
+| ✅ 완료 | ✅ 완료 | ✅ 완료 | 🟡 진행 중 | ⬜ 예정 | ⬜ 예정 |
 
 [📘 기획안](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4) · [🎨 Figma 화면 시안](https://www.figma.com/design/8fxWrnqqGZYG9KSIsqa6RI/StudyRoom-%ED%99%94%EB%A9%B4-%EC%8B%9C%EC%95%88?node-id=0-1&p=f) · [자세히 보기 ↓](#studyroom)
 
@@ -76,7 +76,7 @@
 
 **🧭 프로젝트 바로가기**
 
-[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [💱 Tripfx](#tripfx) · [📚 StudyRoom](#studyroom) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
+[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [💱 Tripfx](#tripfx) · [📚 공부반장](#studyroom) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
 
 </div>
 
@@ -165,18 +165,18 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 ---
 
 <a id="studyroom"></a>
-### 📚 StudyRoom · 그룹 공부 시간 측정 앱
-> 2026.10 ~ 기획 중 · 기획 · UX/UI 설계 · iOS / Android 앱
+### 📚 공부반장 · 그룹 공부 시간 측정 앱
+> 2026.10 ~ 개발 중 · 기획 · UX/UI 설계 · 개발 · iOS / Android 앱
 
-공부 시간 측정 앱 '열품타'를 벤치마킹해, 공부의 **총량이 아니라 흐름**(언제 시작·종료했는지, 왜 쉬었는지)까지 기록하는 앱을 기획하고 있습니다.
+공부 시간 측정 앱 '열품타'를 벤치마킹해, 공부의 **총량이 아니라 흐름**(언제 시작·종료했는지, 왜 쉬었는지)까지 기록하는 앱입니다. 기획 · UX/UI 설계를 마치고 개발하고 있습니다.
 
 - 🧭 세션 타임라인과 **휴식 사유 기록**으로 하루 공부 흐름을 시각화
 - 🚨 앱 이탈 · 휴식 초과를 누적하는 **경고 딱지** 게이지
 - 👩‍🏫 선생님이 만든 그룹에 **QR · 링크**로 참여, 그룹 안에서만 랭킹 · 직책 뱃지(전교회장~부반장) · 과목별 다이아/금/은/동 뱃지
 - 🪑 그룹원의 공부 상태를 실시간으로 보여주는 **가상 독서실 좌석**
-- 📝 기획안을 Notion DB로 섹션화하고, Figma에 화면 12종과 **화면 설계서**(번호 마커 · 상태/예외 · 정책 연결) 작성
+- 📝 기획안을 Notion DB로 섹션화하고, Figma에 화면 68종 · 컴포넌트 · 플로우차트와 **화면 설계서**(번호 마커 · 상태/예외 · 정책 연결) 작성
 
-`기획` `UX/UI` `Figma` `Notion` `AI 협업`
+`기획` `UX/UI` `Figma` `Notion` `Expo` `NestJS` `AI 협업`
 
 [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4) · [🎨 Figma 화면 시안](https://www.figma.com/design/8fxWrnqqGZYG9KSIsqa6RI/StudyRoom-%ED%99%94%EB%A9%B4-%EC%8B%9C%EC%95%88?node-id=0-1&p=f)
 
