@@ -19,6 +19,7 @@
 
   - 🔬 **공부** · [harness-lab](https://github.com/kyungchan3007/Harness) — 원문·요약, 문서·자동 검사, 모델 조합 실험
   - 🔬 **공부** · [ontology-coding-bench](https://github.com/kyungchan3007/ontology-coding-bench) — 온톨로지 vs PRD·SDD 비교 실험
+  - 🔬 **공부** · [ontology-sql-bench](https://github.com/kyungchan3007/ontology-sql-bench) — DB 챗봇에 온톨로지 vs 스키마 실험
   - 🧰 **정리** · [harness-template](https://github.com/kyungchan3007/harness-template) — 효과가 확인된 것만 모은 공개 템플릿
   - 🤖 **실전** · [harness-auto-web](https://github.com/kyungchan3007/harness-auto-web) — AI 에이전트가 만드는 [Tripfx](https://tripfx.pages.dev) 운영
 
