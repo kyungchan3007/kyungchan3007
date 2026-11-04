@@ -193,7 +193,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 - 🤖 두 AI(**Claude · Codex**)가 동일한 규칙·단일 진실 소스로 협업하는 **에이전틱 엔지니어링 체계** 설계 (Intent · Context · Harness · Orchestration)
 - 🧱 Expo(RN) + NestJS **모노레포**(Turborepo) — 프론트 **FSD** · 백엔드 **모듈러 모놀리스** · `zod` 계약 공유
-- 🚏 인프라를 **Railway 단일 벤더**로 통합(Redis + BullMQ · Storage Bucket), 결정마다 **ADR · SDD/PRD**로 근거 기록
+- 🚏 인프라를 **Railway 단일 벤더**로 통합(Redis + BullMQ · Storage Bucket)
 - 🎨 React Native **Skia**로 원본 이미지 위 좌표 하이라이트 렌더링
 
 `Expo` `React Native` `TypeScript` `NestJS` `Prisma` `Skia` `Zod` `Turborepo` `AI Harness`
