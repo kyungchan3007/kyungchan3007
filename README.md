@@ -12,10 +12,10 @@
 
 안녕하세요, 프론트엔드 개발자 **박경찬**입니다.
 
-### 요즘 집중하고 있는 것
+### 요즘 공부하고 있는 것
 - **AI를 팀원처럼 쓰는 개발 체계 (하네스)**
   AI가 빠르게 만들어도 품질이 떨어지지 않도록 규칙 · 검사 · 기록을 묶은 작업 체계를 만들고 있어요.
-  "좋아진 것 같다"가 아니라 직접 실험해서 수치로 확인한 것만 남깁니다.
+  직접 실험해 보면서 공부하고 있어요.
 
   - 🔬 **공부** · [harness-lab](https://github.com/kyungchan3007/Harness) — 원문·요약, 문서·자동 검사, 모델 조합 실험
   - 🔬 **공부** · [ontology-coding-bench](https://github.com/kyungchan3007/ontology-coding-bench) — 온톨로지 vs PRD·SDD 비교 실험
