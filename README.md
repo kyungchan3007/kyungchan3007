@@ -187,7 +187,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 <a id="clauselens"></a>
 ### 🔍 ClauseLens · 계약서 조항 분석 모바일 앱
-> 2026.09 ~ 진행 중 · Frontend + Backend · Claude · Codex AI 협업
+> 2026.09 ~ 2026.10 · Frontend + Backend · Claude · Codex AI 협업
 
 계약서·약관을 촬영하면 OCR로 텍스트·좌표를 추출하고, 사용자에게 불리할 수 있는 조항을 **원본 이미지 위에 하이라이트**하는 모바일 앱입니다.
 
