@@ -156,7 +156,6 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 - 🛰️ **"만드는 중" 페이지** — 에이전트의 도구 사용 훅 → Workers API(D1) → 실시간 기록 패널 · 3D 고양이가 이슈 → 작업 → 테스트 → 배포 책상을 옮겨 다님
 - 🧱 Turborepo 모노레포 — Next.js 16 정적 사이트(Cloudflare Pages · BFF) + Hono Worker API(D1 · Drizzle) · `zod` 계약 공유 · VSA · three.js 3D까지 디자인 시스템 패키지로
 - 💸 통화 22개 둘러보기(1년 흐름) · 관세청 기준 **직구 면세 한도 · 관부가세 계산기** (입력값은 브라우저 밖으로 보내지 않음)
-- ⚡ Lighthouse 모바일 3회 중앙값으로 측정 → 첫 글자를 숨기던 애니메이션 제거 · 3D 지연 로드 + 자리 확보로 **만드는 중 72 → 94점 · 홈 CLS 0.155 → 0.008**
 
 `Next.js 16` `TypeScript` `Hono` `Cloudflare Workers · D1` `Drizzle` `Zod` `three.js` `Turborepo` `AI Harness`
 
