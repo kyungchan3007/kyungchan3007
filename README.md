@@ -217,7 +217,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `Storybook` `Playwright`
 
-[🔗 Repository](https://github.com/kyungchan3007/day-ro-public) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a781ba8edef14ffe598e67) · [🗂 개발 기록](https://shaded-badger-c05.notion.site/Day-ro-TASK-3cadeddc12a780c5b2d3efd607eaeec2)
+[🌐 사이트](https://day-ro.com) · [📷 Instagram](https://www.instagram.com/dayro_app/) · [🔗 Repository](https://github.com/kyungchan3007/day-ro-public) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a781ba8edef14ffe598e67) · [🗂 개발 기록](https://shaded-badger-c05.notion.site/Day-ro-TASK-3cadeddc12a780c5b2d3efd607eaeec2)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
