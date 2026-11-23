@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=박경찬%20|%20Frontend%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=박경찬%20|%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=640&lines=측정하고+개선하는+프론트엔드+개발자;실시간+운영+시스템부터+사용자+서비스까지;AI와+협업하는+개발+체계를+설계합니다" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=640&lines=측정하고+개선하는+개발자;실시간+운영+시스템부터+사용자+서비스까지;AI와+협업하는+개발+체계를+설계합니다" />
 
 </div>
 
@@ -10,47 +10,41 @@
 
 > **"AI 시대에 개발자는 어떻게 일해야 할지 고민합니다"**
 
-안녕하세요, 프론트엔드 개발자 **박경찬**입니다.
+안녕하세요, 개발자 **박경찬**입니다.
 
 ### 요즘 공부하고 있는 것
-- **AI를 팀원처럼 쓰는 개발 체계 (하네스)**
+- **AI를 팀원처럼 쓰는 개발 체계**
   AI가 빠르게 만들어도 품질이 떨어지지 않도록 규칙 · 검사 · 기록을 묶은 작업 체계를 만들고 있어요.
   직접 실험해 보면서 공부하고 있어요.
 
   - 🔬 **공부** · [harness-lab](https://github.com/kyungchan3007/Harness) — 원문·요약, 문서·자동 검사, 모델 조합 실험
-  - 🔬 **공부** · [ontology-coding-bench](https://github.com/kyungchan3007/ontology-coding-bench) — 온톨로지 vs PRD·SDD 비교 실험
-  - 🔬 **공부** · [ontology-sql-bench](https://github.com/kyungchan3007/ontology-sql-bench) — DB 챗봇에 온톨로지 vs 스키마 실험
-  - 🔬 **공부** · [geo-study](https://github.com/kyungchan3007/geo-study) — AI 검색 대응(GEO) 조사 · 점검 도구, Tripfx 적용
+  - 🔬 **공부** · [frontend-architecture](https://github.com/kyungchan3007/frontend-architecture) — 공용 패키지 경계 · barrel · API 코드 생성 · 디자인 토큰을 재현해 재빌드 범위 측정
+  - 🔬 **공부** · [ticketing-study](https://github.com/kyungchan3007/ticketing-study) — 콘서트 좌석 예매를 처음부터 다시 만들며 현업 에이전트 설계 복기 (동시성 · 멱등성 · 중복 요청)
   - 🧰 **정리** · [harness-template](https://github.com/kyungchan3007/harness-template) — 효과가 확인된 것만 모은 공개 템플릿
-  - 🤖 **실전** · [harness-auto-web](https://github.com/kyungchan3007/harness-auto-web) — AI 에이전트가 만드는 [Tripfx](https://tripfx.pages.dev) 운영
 
   → 📘 [공부 기록 · AI Harness](https://shaded-badger-c05.notion.site/AI-Harness-3d8deddc12a78072aecad454dbd0eef5)
 
-- **"느낌"이 아니라 "근거"로 판단하기**
-  빨라진 것 같다, 좋아진 것 같다에서 멈추지 않고 직접 재보고 비교해서 결정하는 습관을 만들고 있어요.
-
-- **기록하고 나누기**
-  시행착오를 기록으로 남기면 저에게도 팀에게도 다음 번의 지름길이 된다고 믿어요.
-
-### 앞으로 추구하는 것
-- **함께 일하기 좋은 기준을 만드는 개발자**
-  혼자 잘하는 것보다, 팀이 같은 기준으로 편하게 일할 수 있는 구조를 만드는 데 더 보람을 느낍니다.
-
-- **사람들이 실제로 쓰고 좋아하는 서비스**
-  기술 자체보다, 누군가의 하루를 조금 더 편하게 만드는 서비스를 만들고 싶어요.
-
 <br/>
 
-## 🚧 지금 진행 중인 프로젝트
+## 🚀 지금 운영 중인 프로젝트
 
-### 📚 공부반장 · 그룹 공부 시간 측정 앱
-공부의 **총량이 아니라 흐름**까지 기록하는 앱을 **기획부터 출시까지** 직접 만들어 가고 있어요.
+### 💘 Dayro · AI 데이트 코스 추천 서비스
+시간대 · 지역 · 교통수단 · 목적을 입력하면 AI가 데이트 코스 3가지를 추천하는 서비스예요. 4인 팀에서 프론트엔드를 맡았고, 2026.11.23 **베타 테스트를 마치고** 지금은 **디자인 · UX 수정 작업**을 진행하고 있어요.
 
-| 💡 아이디어 | 📝 기획 | 🎨 UX/UI 설계 | 🛠️ 개발 | 🧪 테스트 | 🚀 출시 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ✅ 완료 | ✅ 완료 | ✅ 완료 | 🟡 진행 중 | ⬜ 예정 | ⬜ 예정 |
+| 📝 기획 | 🛠️ 개발 | 🧪 베타 테스트 | 🎨 디자인 · UX 수정 | 📡 운영 |
+|:---:|:---:|:---:|:---:|:---:|
+| ✅ 완료 | ✅ 완료 | ✅ 완료 | 🟡 진행 중 | 🟢 운영 중 |
 
-[📘 기획안](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4) · [🎨 Figma 화면 시안](https://www.figma.com/design/8fxWrnqqGZYG9KSIsqa6RI/StudyRoom-%ED%99%94%EB%A9%B4-%EC%8B%9C%EC%95%88?node-id=0-1&p=f) · [자세히 보기 ↓](#studyroom)
+[🌐 day-ro.com](https://day-ro.com) · [📷 Instagram](https://www.instagram.com/dayro_app/) · [🔗 Repository](https://github.com/kyungchan3007/day-ro-public) · [자세히 보기 ↓](#dayro)
+
+### 💱 Flapfx · 여행과 해외 직구를 위한 환율 정보 서비스
+공개 데이터 5종으로 **오늘 환율 · 여행 물가 · 직구 예상 세액**을 보여 주는 서비스를, 기획 · 설계 · 검증은 제가 맡고 **구현 · 운영 · 마케팅은 AI 에이전트 팀**에 맡겨 운영하고 있어요.
+
+| 💡 기획 | 🏗️ 설계 | 🤖 구현 (AI 에이전트) | 🧪 검증 | 🚀 출시 | 📡 운영 | 📣 마케팅 (AI 에이전트) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ✅ 완료 | ✅ 완료 | ✅ 완료 | ✅ 완료 | ✅ 완료 | 🟢 운영 중 | 🟢 진행 중 |
+
+[🌐 flapfx.com](https://flapfx.com) · [📷 Instagram](https://www.instagram.com/flapf_x/) · [🔗 Repository](https://github.com/kyungchan3007/agents-auto-web) · [자세히 보기 ↓](#flapfx)
 
 <br/>
 
@@ -78,25 +72,26 @@
 
 **🧭 프로젝트 바로가기**
 
-[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMS](#bems) · [💱 Tripfx](#tripfx) · [📚 공부반장](#studyroom) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju) · [🏠 PinHouse](#pinhouse)
+[🏭 FMS](#fms) · [🎛️ 원격제어](#remote) · [🏢 BEMCS](#bems) · [💱 Flapfx](#flapfx) · [🔍 ClauseLens](#clauselens) · [💘 Dayro](#dayro) · [🔮 SAJU:ME](#saju)
 
 </div>
 
 ### 💼 Work
 
 <a id="fms"></a>
-### 🏭 FMS 시설물 관리 서비스
-> ㈜티에스엠테크놀로지 · Frontend Lead · 2인 개발
+### 🏭 FMS · 설비 관리 시스템
+> ㈜티에스엠테크놀로지 · 2025.12 – 2026.06 · Frontend · 팀 리더 · 4인 프로젝트 (FE 2 · BE 1 · 디자인 1)
 
-설비 관리에서 ERP까지 개발 범위가 약 50% 늘었지만, 인원(2명)과 일정(5개월)은 그대로였습니다.
-늘어난 범위를 감당하기 위해 **AI 협업 체계, API 계약 자동화, 공통 품질 검증 기준**을 설계해 팀 공통 절차로 정착시켰습니다.
+현장 엔지니어와 정리한 업무 규칙을 AI가 참조하는 온톨로지로 만들고, 역할별 에이전트와 검증 게이트를 묶은 **하네스 기반 개발 절차**를 설계해 팀에 적용했습니다.
 
-- 🤖 구현과 검증을 서로 다른 AI 런타임으로 분리하고, 교차 검증한 뒤 사람이 최종 승인
-- 📉 컨텍스트 매트릭스로 필요한 문서만 불러와, 세션마다 기본으로 들어가던 문맥(약 8.9K 토큰)을 **약 95% 절감**
-- 📜 OpenAPI · Zod로 타입·클라이언트 생성과 런타임 검증 연결
-- 🧱 pnpm 모노레포로 디자인 토큰 · UI · 계약 패키지 분리
+- 📅 10개월로 계획한 프로젝트를 QA까지 **약 6.5개월** 만에 마쳐 전체 기간 **약 35% 단축**
+- 🧪 도입 전후 2개월 비교, 기능당 QA 핫픽스 PR **약 85%** · 재작업 PR **약 65% 감소**
+- 🤖 리드 · 설계 · 구현 · 테스트 · 리뷰로 역할을 나눠 Claude가 구현하고 Codex가 검토, 구현 전후 게이트 통과 후 사람이 최종 승인
+- 📉 변경 규모별 Quick / Full 경로로 AI 전송량 **약 35%**, 큰 파일 작업에서 **최대 95% 절감**
+- 📜 OpenAPI · Zod로 타입 · 클라이언트 생성과 런타임 검증 연결
+- 🎨 Figma 디자인 토큰 기준 공통 UI 컴포넌트 25개 이상 구축
 
-`Next.js` `TypeScript` `AI Harness` `OpenAPI` `Zod` `pnpm`
+`Next.js` `TypeScript` `Zustand` `TanStack Query` `MSW` `AI Harness` `OpenAPI` `Zod`
 
 [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3f1deddc12a780f0b723fa6e8828f890)
 
@@ -105,18 +100,18 @@
 ---
 
 <a id="remote"></a>
-### 🎛️ 원격 제어 및 모니터링
-> ㈜티에스엠테크놀로지 · Frontend + Backend · 인수인계 후 개선
+### 🎛️ 원격제어 · 실시간 장비 제어 모니터링 시스템
+> ㈜티에스엠테크놀로지 · 2026.01 – 2026.07 · 연구기관 주관 공동 개발 · 회사 대표 개발자로 겸임 (Frontend · Backend · AWS)
 
-MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩어진 실시간 연결, 늦은 장애 인지** 문제를 해결했습니다.
+성공 오판정과 반복 응답이 잦던 기존 원격제어 시스템을 재구축했습니다.
 
-- ⚡ 제어 지연 **5초 → 1초 이내**
-- 🛡️ `commandId` 기준 서버 멱등 처리(Lambda · DynamoDB)로 **중복 제어 방지**
-- 🔌 컴포넌트마다 AWS IoT를 직접 구독하던 구조를 **Node.js WebSocket 게이트웨이** 하나로 통합
-- 🚨 S3 · Athena · CloudWatch 로그 분석 + Slack 알림으로 장애 대응 **3일 → 1일 이내**
-- 🚀 CI/CD 자동 배포 · PM2로 신규 워커 구독 완료 후 기존 워커를 종료하고, 재접속 시 진행 중인 제어 결과를 복구해 **배포 중 제어 유실 방지**
+- 🛡️ 하루 약 180건이던 제어 오류를 개발 완료(2026.03) 후 **3개월간 0건**으로 유지
+- ⚡ 장비 엔지니어와 응답 순서를 조정해 5초 이상 소요되던 제어 결과 표시를 **약 70% 단축**
+- 🧾 명령 식별자 기준 Lambda · DynamoDB 조건부 쓰기로 **첫 결과 1건만 확정**, 중복 응답 차단
+- 🔌 화면별 AWS IoT 구독을 **Node.js 게이트웨이**로 모으고 모니터링 · 제어 연결 분리
+- 🚨 S3 · Athena 오류 분석 + Slack 알림으로 오류 인지 **3일~1주 → 당일**
 
-`MQTT` `AWS IoT` `Lambda` `DynamoDB` `Node.js` `WebSocket` `CloudWatch`
+`React` `Zustand` `TanStack Query` `Node.js` `AWS IoT` `Lambda` `DynamoDB` `S3` `Athena`
 
 [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3f1deddc12a78001a390c0134a350e5b)
 
@@ -125,18 +120,19 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 ---
 
 <a id="bems"></a>
-### 🏢 BEMS 운영 대시보드
-> ㈜티에스엠테크놀로지 · Frontend Lead · 성능 2단계 재구축 (React → Next.js)
+### 🏢 BEMCS · 건물 에너지 통합 플랫폼
+> ㈜티에스엠테크놀로지 · 2022.10 – 2026.07 · Frontend · 2024.07부터 팀 리더 · 성능 2단계 재구축 (React → Next.js)
 
-대량의 실시간 데이터 때문에 피크 시간대 화면 반영이 **4초 이상** 지연되던 대시보드를 측정하고, 데이터 흐름과 렌더링 구조를 다시 설계했습니다.
+실시간 모니터링과 시계열 조회를 새로 구축해 **4개 현장**으로 확대 적용하고, 피크 시간대에 느리던 초기 화면을 두 단계로 개선했습니다.
 
-- 🧵 **Web Worker**로 데이터 가공을 메인 스레드에서 분리
-- 🖥️ **Next.js SSR**로 초기 3시간 데이터를 서버에서 먼저 렌더링하고, 이후 변경분만 **SSE**로 반영
-- 🔁 `Last-Event-ID` 기반 재연결로 데이터 중복·유실 방지
+- 🧵 **Web Worker**로 데이터 가공을 분리해 초기 화면 표시 약 4초 → 2초
+- 🖥️ **Next.js SSR**로 최근 3시간 데이터를 먼저 렌더링하고 이후 변경분만 **SSE**로 반영해 1초, 전체 **약 75% 단축**
+- 🔁 `Last-Event-ID` 기반 재연결로 데이터 중복 · 유실 방지
+- 🎨 Figma 디자인 토큰과 공통 UI 약 20개 · 공통 API 약 15개 패키지화로 중복 코드 비율 **약 60% → 30%**
 - 📦 JS 번들 **-29.7%** · 공통 CSS **-20.1%**
 - ✅ PR마다 SonarQube · Vitest · Playwright 품질 게이트 실행
 
-`Next.js` `SSR` `SSE` `Web Worker` `BFF Cache` `SonarQube` `Playwright`
+`Next.js` `SSR` `SSE` `Web Worker` `Zustand` `TanStack Query` `MSW` `SonarQube` `Playwright`
 
 [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3f0deddc12a780fdb08eef9a43b86d51)
 
@@ -146,41 +142,21 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 ### 🚀 Side Projects
 
-<a id="tripfx"></a>
-### 💱 Tripfx · 여행 · 직구 타이밍 환율 대시보드
-> 2026.10 ~ 운영 중 · Frontend + Backend · AI 코딩 에이전트(Claude Code)가 이슈부터 배포까지 만들고, 그 과정을 사이트에 실시간 공개
+<a id="flapfx"></a>
+### 💱 Flapfx · 여행과 해외 직구를 위한 환율 정보 서비스
+> 2026.10 ~ 운영 중 · 개인 프로젝트 · 기획 · 설계 · 검증 담당 (구현 · 운영 · 마케팅은 AI 에이전트)
 
-한국수출입은행 환율 · 물가 오픈 API를 하루 한 번 받아, "**지금 달러가 싼 편인지**"를 과거 90일 중 위치로 보여 주는 대시보드입니다 (예측이 아니라 실측 위치만).
+수출입은행 · 관세청 · 통계청 · 한국은행 · 세계은행 공개 데이터로 환율, 여행 물가, 직구 예상 세액을 보여 주는 서비스입니다. 개발자는 기획 · 설계 · 검증만 맡고 구현부터 운영, 마케팅까지 AI 에이전트 팀에 맡겼을 때 서비스를 얼마나 안정적으로 운영할 수 있는지 확인하고 있어요.
 
-- 🤖 **하네스로 일하는 AI 에이전트** — 계획한 파일만 수정, 검사 통과 후 완료
-- 🛰️ **"만드는 중" 페이지** — 에이전트 작업 기록을 실시간 공개
-- 🧱 **Turborepo 모노레포** — Next.js 정적 사이트 + Hono API
-- 💸 통화 22개 둘러보기(1년 흐름) · 관세청 기준 **직구 면세 한도 · 관부가세 계산기** (입력값은 브라우저 밖으로 보내지 않음)
+- 🤖 에이전트 4역할(lead · builder · test · geo)을 OpenRig로 한 팀으로 운영, 타입 · 린트 · 테스트 게이트 통과를 완료 조건으로 정의해 약 3주 동안 **PR 194개 머지**
+- 🧱 5개 기관 데이터를 Zod로 검사해 원본 오류를 저장 전에 차단, 받지 못한 값은 "자료 없음"으로 표시
+- 🚑 DB 하루 읽기 한도 초과 장애를 조회 색인과 응답 캐시로 해결
+- 📈 AI 검색 노출 · 인용을 측정하는 GEO 실험 진행 중
+- 📣 마케팅도 에이전트가 맡아, 2026.11.23부터 인스타그램 게시물 업로드 시작
 
-`Next.js 16` `TypeScript` `Hono` `Cloudflare Workers · D1` `Drizzle` `Zod` `three.js` `Turborepo` `AI Harness`
+`Next.js` `Hono` `Cloudflare Workers` `D1` `Zod` `Turborepo` `OpenRig` `AI Harness`
 
-[🌐 사이트](https://tripfx.pages.dev) · [🛰️ 만드는 중](https://tripfx.pages.dev/log) · [🔗 Repository](https://github.com/kyungchan3007/harness-auto-web)
-
-<sub>[⬆ 목록으로](#portfolio-top)</sub>
-
----
-
-<a id="studyroom"></a>
-### 📚 공부반장 · 그룹 공부 시간 측정 앱
-> 2026.10 ~ 개발 중 · 기획 · UX/UI 설계 · 개발 · iOS / Android 앱
-
-공부 시간 측정 앱 '열품타'를 벤치마킹해, 공부의 **총량이 아니라 흐름**(언제 시작·종료했는지, 왜 쉬었는지)까지 기록하는 앱입니다. 기획 · UX/UI 설계를 마치고 개발하고 있습니다.
-
-- 🧭 세션 타임라인과 **휴식 사유 기록**으로 하루 공부 흐름을 시각화
-- 🚨 선생님이 학생에게 직접 주는 **경고 딱지**
-- 👩‍🏫 선생님이 만든 그룹에 **QR · 링크**로 참여, 그룹 안에서만 랭킹 · 직책 뱃지(전교회장~부반장) · 과목별 다이아/금/은/동 뱃지
-- 🪑 그룹원의 공부 상태를 실시간으로 보여주는 **가상 독서실 좌석**
-- 📝 기획안을 Notion DB로 섹션화하고, Figma에 화면 68종 · 컴포넌트 · 플로우차트와 **화면 설계서**(번호 마커 · 상태/예외 · 정책 연결) 작성
-- 🔒 테스트 로그인과 체험 계정의 보안 설정을 정리하는 중이라 저장소는 비공개로 두고 있습니다.
-
-`기획` `UX/UI` `Figma` `Notion` `Expo` `NestJS` `AI 협업`
-
-[📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a780dbb9c0f01397268ec7?p=40ededdc12a781a498f6ff833aad734a&pm=c) · [🗂 개발 기록](https://shaded-badger-c05.notion.site/StudyRooom-408deddc12a78011ab21c341047859c4) · [🎨 Figma 화면 시안](https://www.figma.com/design/8fxWrnqqGZYG9KSIsqa6RI/StudyRoom-%ED%99%94%EB%A9%B4-%EC%8B%9C%EC%95%88?node-id=0-1&p=f)
+[🌐 flapfx.com](https://flapfx.com) · [📷 Instagram](https://www.instagram.com/flapf_x/) · [🔗 Repository](https://github.com/kyungchan3007/agents-auto-web)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
@@ -199,7 +175,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Expo` `React Native` `TypeScript` `NestJS` `Prisma` `Skia` `Zod` `Turborepo` `AI Harness`
 
-[🔗 Repository](https://github.com/kyungchan3007/clause-lens) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a781269cc2e96862e1e4b1) · [🗂 개발 기록](https://shaded-badger-c05.notion.site/OCR-3d1deddc12a780f0bb7fc1f8403287a5)
+[🔗 Repository](https://github.com/kyungchan3007/clause-lens) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a781269cc2e96862e1e4b1)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
@@ -207,7 +183,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 <a id="dayro"></a>
 ### 💘 Dayro · AI 데이트 코스 추천 서비스
-> 2026.06 ~ 진행 중 · 🧪 2026.11 ~ 베타 테스트 중 · Frontend · 4인 팀
+> 2026.06 ~ 운영 중 · 🧪 2026.11.23 베타 테스트 완료 · 🎨 디자인 · UX 수정 진행 중 · Frontend · 4인 팀
 
 시간대 · 지역 · 교통수단 · 목적을 입력하면 AI가 **근거리 / SNS 핫플 / 분위기** 3가지 데이트 코스를 추천합니다.
 
@@ -217,7 +193,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `Storybook` `Playwright`
 
-[🌐 사이트](https://day-ro.com) · [📷 Instagram](https://www.instagram.com/dayro_app/) · [🔗 Repository](https://github.com/kyungchan3007/day-ro-public) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a781ba8edef14ffe598e67) · [🗂 개발 기록](https://shaded-badger-c05.notion.site/Day-ro-TASK-3cadeddc12a780c5b2d3efd607eaeec2)
+[🌐 사이트](https://day-ro.com) · [📷 Instagram](https://www.instagram.com/dayro_app/) · [🔗 Repository](https://github.com/kyungchan3007/day-ro-public) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a781ba8edef14ffe598e67)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
@@ -236,25 +212,7 @@ MQTT 기반 원격 제어 시스템을 인수인계받아 **중복 응답, 흩�
 
 `Next.js` `TypeScript` `Cloudflare Workers` `AI Harness` `SEO`
 
-[🔗 Repository](https://github.com/kyungchan3007/SAJU) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a7816f8fbde6e66271905a) · [🗂 개발 기록](https://shaded-badger-c05.notion.site/353deddc12a7815ba3dfe58bbc0807cc)
-
-<sub>[⬆ 목록으로](#portfolio-top)</sub>
-
----
-
-<a id="pinhouse"></a>
-### 🏠 PinHouse · 주거 탐색 서비스
-> 2025.07 ~ 2026.07 · Frontend · 🏆 공모전 '모두의 아이디어' 우수참여자 선정
-
-조건 기반 주거 탐색 서비스에서 **초기 렌더링 부담과 검색 상태 복잡도**를 함께 줄였습니다.
-
-- 🖥️ BFF로 첫 화면 데이터를 서버에서 조합해 초기 렌더링 체감 속도 개선
-- 🗂️ URL · Zustand · TanStack Query · BFF **상태 4계층 분리**로 검색·캐시 정합성 확보
-- 🧩 FSD 구조로 주소 검색 · 지역 필터 · 방 검색 · 지도 매핑 기능을 독립적으로 분리
-
-`Next.js` `TypeScript` `TanStack Query` `Zustand` `BFF` `FSD`
-
-[🔗 Repository](https://github.com/kyungchan3007/PinHouse_FE)
+[🔗 Repository](https://github.com/kyungchan3007/SAJU) · [📘 Notion에서 자세히 보기](https://shaded-badger-c05.notion.site/3eddeddc12a7816f8fbde6e66271905a)
 
 <sub>[⬆ 목록으로](#portfolio-top)</sub>
 
