@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=박경찬%20|%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=640&lines=측정하고+개선하는+개발자;실시간+운영+시스템부터+사용자+서비스까지;AI와+협업하는+개발+체계를+설계합니다" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=640&lines=%EC%B8%A1%EC%A0%95%ED%95%98%EA%B3%A0+%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%8B%A4%EC%8B%9C%EA%B0%84+%EC%9A%B4%EC%98%81+%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B6%80%ED%84%B0+%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80;AI%EC%99%80+%ED%98%91%EC%97%85%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C+%EC%B2%B4%EA%B3%84%EB%A5%BC+%EC%84%A4%EA%B3%84%ED%95%A9%EB%8B%88%EB%8B%A4" />
 
 </div>
 
